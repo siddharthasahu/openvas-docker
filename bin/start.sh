@@ -22,7 +22,7 @@ do
 done
 
 echo "Checking setup"
-/openvas/openvas-check-setup --v7
+/openvas/openvas-check-setup --v8
 
 echo "Done."
 
